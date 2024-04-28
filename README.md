@@ -1,2 +1,5 @@
 # CODSOFT
-POJECT FILES
+PROJECT FILES
+Simple Calculator
+Portfolio
+Landing Page
